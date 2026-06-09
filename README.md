@@ -167,4 +167,3 @@ python main.py
 
 - NASA Exoplanet Archive: [exoplanetarchive.ipac.caltech.edu](https://exoplanetarchive.ipac.caltech.edu)
 - Planetary Habitability Laboratory — Habitable Worlds Catalog: [phl.upr.edu/hwc](https://phl.upr.edu/hwc)
-- Documentação da solução completa: ver `ExoScore_GS2026.pdf`
