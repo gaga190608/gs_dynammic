@@ -91,7 +91,7 @@ exoscore-python/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/exoscore-python.git
+git clone https://github.com/gaga190608/gs_dynammic
 cd gs_dynammic
 
 # Instale a dependência
